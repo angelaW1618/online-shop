@@ -17,6 +17,7 @@ Welcome to the Online Shop, a powerful e-commerce platform engineered with a Vue
 <div>
 <img src="https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="Vue.js" />
 <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -27,6 +28,7 @@ Welcome to the Online Shop, a powerful e-commerce platform engineered with a Vue
   
 - Vue.js
 - JAVA
+- JavaScript
 - Spring boot
 - PostgreSQL
 - HTML
