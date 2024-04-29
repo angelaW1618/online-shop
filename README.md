@@ -36,7 +36,15 @@ Welcome to the Online Shop, a powerful e-commerce platform engineered with a Vue
 
 ### Features and Functionality
 
-- **Scalable Data Management:** Utilizes **PostgreSQL** to efficiently manage complex data structures and queries, providing a robust foundation for the store's inventory and user data.
+- **Scalable Data Management:** Utilizes **PostgreSQL** to effectively manage complex data structures and execute intricate queries, establishing a strong foundation for managing the store's inventory and user data. It fully employs CRUD (Create, Read, Update, Delete) operations, enabling dynamic and robust interactions with the database. This comprehensive approach supports:
+
+  - **Creating** new entries such as user accounts, product listings, and orders efficiently, directly impacting our system's ability to scale and adapt to user needs.
+  
+  - **Reading** data through sophisticated SQL queries that enable powerful search functionalities and instant access to detailed information, improving the overall user experience by ensuring data is timely and relevant.
+  
+  - **Updating** information seamlessly, which is crucial for maintaining accurate user profiles, order details, and inventory status, thus ensuring the platform remains up-to-date and functional.
+  
+  - **Deleting** unnecessary or outdated data entries, helping maintain a clean and efficient database environment, which is vital for performance and user satisfaction.
 
 - **Seamless Front-End and Back-End Integration:** Combines the reactivity of **Vue.js** with the powerful capabilities of **Spring Boot**, offering seamless connections between the front end and the database through well-defined APIs.
 
